@@ -9,7 +9,7 @@ In other words, the company wants to understand the driving factors (or driver v
 
 ## Authors
 
-- [@kanojiaamit](https://www.github.com/octokatherine)
+- [@kanojiaamit](https://github.com/kanojiaamit)
 
 
 ## EDA Steps
